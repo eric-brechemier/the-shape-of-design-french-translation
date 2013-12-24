@@ -1,5 +1,5 @@
-Les contours de la création
-===========================
+La forme en création
+====================
 
 French translation of “The Shape of Design” book by Frank Chimero.
 
