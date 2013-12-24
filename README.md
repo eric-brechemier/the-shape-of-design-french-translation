@@ -14,7 +14,7 @@ Licensed [BY-NC-SA Creative Commons]
 
 ## ATTRIBUTION ##
 
-“The Shape of Design” book by Frank Chimero,
+“The Shape of Design” book by Frank Chimero,  
 French translation by Eric Bréchemier.
 
 ## BACK STORY ##
