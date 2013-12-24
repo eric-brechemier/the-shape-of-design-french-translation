@@ -1,7 +1,8 @@
 La forme en création
 ====================
 
-French translation of “The Shape of Design” book by Frank Chimero.
+French translation of [“The Shape of Design” book]
+(http://read.shapeofdesignbook.com/) by Frank Chimero.
 
 ## STATUS ##
 
