@@ -19,4 +19,4 @@ in general. It comes with a religious/sacred connotation,
 which is not out of a place here, and resonates with the
 radiating illustration of the front cover.
 
-GDT: http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=8401753
+[GDT]: http://gdt.oqlf.gouv.qc.ca/ficheOqlf.aspx?Id_Fiche=8401753
