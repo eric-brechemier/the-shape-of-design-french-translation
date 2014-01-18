@@ -6,7 +6,7 @@ French translation of [“The Shape of Design” book]
 
 ## STATUS ##
 
-Foreword translation in progress (10/132)
+Introduction translation started (12/132)
 
 ## LICENSE ##
 
@@ -41,3 +41,4 @@ French, I appreciate the true value of its brevity.
   (http://www.kickstarter.com/projects/fchimero/the-shape-of-design/posts/236908)
   of the book, and the start of the adventure
 * 2013-12-24, French translation started
+* 2014-01-18, Foreword translated
