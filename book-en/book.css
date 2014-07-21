@@ -111,7 +111,10 @@ article.ack {
 }
 
 blockquote {
+  margin: 0;
   padding-left: 2.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 
 p.first {
