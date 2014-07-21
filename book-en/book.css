@@ -238,6 +238,14 @@ article.endnotes p {
 	margin: 1.6em 0;
 }
 
+a.endnote-anchor {
+	text-decoration: none;
+}
+
+a.endnote-anchor:target {
+	background-color: #f8f8a8;
+}
+
 a.buybutton {
 	background-color:rgba(75,75,60,0.5);
 	display: block;
