@@ -101,6 +101,11 @@ p {
   text-indent: 1.25em;
 }
 
+blockquote p {
+  margin: 1.5em 0;
+  text-indent: 0;
+}
+
 article.ack {
   padding-bottom: 4em;
 }
