@@ -102,7 +102,7 @@ nav {
   left: 50%;
   margin-top: -6.25em;
   margin-left: -10.5em;
-  
+
 }
 
 nav a { text-decoration: none; color: rgba(0,0,0,0.2); }
@@ -137,7 +137,7 @@ img.illo {
 div.img-block { margin: 1.6em 0; }
 
 p.chap1-list {
-  text-indent: 0; 
+  text-indent: 0;
   text-align: center;
   margin: 1.6em 0;
   font-family: ff-quadraat-sc-web, Georgia, serif;
@@ -182,9 +182,9 @@ nav ol li.sep { margin-bottom: 0.5em; }
 
 footer { text-align: center; font-size: 0.8em; color: rgba(0,0,0,0.4); padding: 2em 0; }
 footer a { color: rgba(0,0,0,0.4); }
- 
+
     a.tooltip {outline:none; }
-a.tooltip:hover {text-decoration:none; color: #e74357;} 
+a.tooltip:hover {text-decoration:none; color: #e74357;}
 a.tooltip span {
     z-index:10;display:none;
     font-size: 16px;
@@ -192,12 +192,12 @@ a.tooltip span {
     padding: 0.5em;
     margin-top:0;
     margin-left:1.25em;
-    
+
 }
 a.tooltip:hover span{
     display:inline; position:absolute; color:#fff;
     background:rgba(75,75,60,0.8); left: 1.25em; max-height: 30px; text-align: left;}
-    
+
 /*CSS3 extras*/
 a.tooltip span
 {
@@ -285,7 +285,7 @@ a.buybutton:hover {
 }
 
 
-@media screen and (max-width:900px) { 
+@media screen and (max-width:900px) {
   nav {
     float: none;
     position: inherit;
@@ -302,24 +302,24 @@ a.buybutton:hover {
     margin: 0 auto;
     max-width: 30em;
   }
-  
+
   nav ol li {
     display: inline-block;
     font-size: 1.75em;
     padding-right: 0.35em;
   }
-  
+
   nav ol li a { display: inline-block; margin-top: 20px; }
   nav ol li a.active { position: relative; top:-2px; }
   header { padding-bottom: 0; }
   li.sep { margin-right: 0.4em; }
-  
+
   a.tooltip:hover span { display: none; }
-  
+
   article, header, nav { padding-left: 1em; padding-right: 1em; }
   a.continue { padding-left: 1em; padding-right: 1em; margin-left: -1em;}
-  
-  
+
+
 }
 
 @media screen and (min-width:1300px) {   body { font-size: 24px; }  }
