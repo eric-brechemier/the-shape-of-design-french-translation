@@ -324,4 +324,4 @@ a.buybutton:hover {
 
 @media screen and (min-width:1300px) { 	body { font-size: 24px; }  }
 @media screen and (min-width:1800px) { 	body { font-size: 30px; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }  }
-@media screen and (min-width:2100px) { 	body { font-size: 36px; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }  } /* Haha, suckers. */
+@media screen and (min-width:2100px) { 	body { font-size: 36px; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }  }
