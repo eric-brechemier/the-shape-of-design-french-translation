@@ -110,8 +110,6 @@ nav ol { margin: 0; padding: 0; }
 
 article img { width: 100%; }
 
-p.quote { margin-bottom: 2em; font-style: italic; text-indent: -0.4em; }
-
 cite, .osf, div.sign {
 	font-family: ff-quadraat-sc-web, Georgia, serif;
 	font-size: 1em;
