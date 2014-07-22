@@ -25,12 +25,21 @@ a {
   color: inherit;
 }
 
+a.tooltip {
+  color: rgba(0,0,0,0.2);
+}
+
 h1,
 a.download,
 a.continue,
 a:hover,
 a.tooltip:hover /* TODO: check if needed */ {
   color: #e74357;
+}
+
+a.tooltip:hover span {
+  color: #fff;
+  background-color: rgba(75,75,60,0.8);
 }
 
 h2,
@@ -50,17 +59,8 @@ nav {
   }
 }
 
-a.tooltip {
-  color: rgba(0,0,0,0.2);
-}
-
 div.sign {
   border-color: rgba(0,0,0,0.2);
-}
-
-a.tooltip:hover span {
-  color: #fff;
-  background-color: rgba(75,75,60,0.8);
 }
 
 .fin {
