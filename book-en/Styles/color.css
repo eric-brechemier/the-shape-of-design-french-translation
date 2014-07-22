@@ -50,7 +50,7 @@ nav {
   }
 }
 
-nav a {
+a.tooltip {
   color: rgba(0,0,0,0.2);
 }
 
