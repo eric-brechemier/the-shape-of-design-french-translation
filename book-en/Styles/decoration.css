@@ -1,0 +1,70 @@
+header,
+article,
+a.continue {
+  border-width: 1px;
+}
+
+header {
+  border-left-style: solid;
+  border-right-style: solid;
+}
+
+@media screen and (max-width:900px) {
+  nav {
+    border-width: 1px;
+    border-left-style: solid;
+    border-right-style: solid;
+  }
+}
+
+article {
+  border-style: solid;
+  border-bottom-style: none;
+}
+
+a.continue {
+  border-top-style: solid;
+}
+
+div.sign {
+  border-width: 2px;
+  border-style: solid;
+}
+
+a.tooltip span {
+  /* CSS3 extras */
+  border-radius: 4px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+}
+
+nav a,
+a.tooltip:hover,
+a.endnote-anchor,
+a.continue {
+  text-decoration: none;
+}
+
+a.continue:hover {
+  text-decoration: underline;
+}
+
+a.tooltip {
+  outline: none;
+}
+
+ul {
+  list-style: circle;
+}
+
+ol {
+  list-style: none;
+}
+
+q:before {
+  content: none;
+}
+
+q:after {
+  content: none;
+}

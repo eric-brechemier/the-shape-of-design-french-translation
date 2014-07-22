@@ -1,0 +1,66 @@
+body {
+  background-color: #f8f8f5;
+}
+
+article,
+header {
+  background-color: #fff;
+  border-color: rgba(0,0,0,0.07);
+}
+
+a.endnote-anchor:target {
+  background-color: #f8f8a8;
+}
+
+a.continue {
+  border-color: rgba(0,0,0,0.1); /* TODO: use same border color as article */
+}
+
+body,
+h1 span,
+a {
+  color: #404030;
+}
+
+h1,
+header a, /* TODO: replace with header > a */
+a.continue,
+a:hover,
+a.tooltip:hover /* TODO: check if needed */ {
+  color: #e74357;
+}
+
+h2,
+header h1,
+footer,
+footer a {
+  color: rgba(0,0,0,0.4);
+}
+
+nav {
+  background: none;
+}
+
+@media screen and (max-width:900px) {
+  nav {
+    background-color: #fff;
+    border-color: rgba(0,0,0,0.07);
+  }
+}
+
+nav a {
+  color: rgba(0,0,0,0.2);
+}
+
+div.sign {
+  border-color: rgba(0,0,0,0.2);
+}
+
+a.tooltip:hover span {
+  color: #fff;
+  background-color: rgba(75,75,60,0.8);
+}
+
+.fin {
+  color: rgba(0,0,0,0.25);
+}
