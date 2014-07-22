@@ -7,16 +7,6 @@ header a:first-child {
   text-decoration: none;
 }
 
-header h1 span {
-  color: rgba(0,0,0,0.2);
-}
-
-@media screen and (max-width:500px) {
-  header span {
-    display: none;
-  }
-}
-
 header h1 a {
   color: rgba(0,0,0,0.4);
   text-decoration: underline !important;
