@@ -17,9 +17,12 @@ a.continue {
 }
 
 body,
-h1 span,
-a {
+h1 span {
   color: #404030;
+}
+
+a {
+  color: inherit;
 }
 
 h1,
@@ -32,8 +35,7 @@ a.tooltip:hover /* TODO: check if needed */ {
 
 h2,
 header h1,
-footer,
-footer a {
+footer {
   color: rgba(0,0,0,0.4);
 }
 
