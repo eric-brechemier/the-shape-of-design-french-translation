@@ -3,13 +3,8 @@
 @import "layout.css";
 @import "decoration.css";
 
-header a:first-child {
-  text-decoration: none;
-}
-
 header h1 a {
   color: rgba(0,0,0,0.4);
-  text-decoration: underline !important;
 }
 
 @media screen and (max-width:500px) {
