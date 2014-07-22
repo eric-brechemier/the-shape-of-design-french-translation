@@ -23,7 +23,7 @@ a {
 }
 
 h1,
-header > a,
+a.download,
 a.continue,
 a:hover,
 a.tooltip:hover /* TODO: check if needed */ {
