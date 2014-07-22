@@ -32,7 +32,7 @@ a:hover {
   color: #e74357;
 }
 
-a.tooltip:hover span {
+a.tooltip span {
   color: #fff;
   background-color: rgba(75,75,60,0.8);
 }
