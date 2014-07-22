@@ -33,7 +33,7 @@ h1,
 a.download,
 a.continue,
 a:hover,
-a.tooltip:hover /* TODO: check if needed */ {
+a.tooltip:hover {
   color: #e74357;
 }
 
