@@ -45,26 +45,3 @@ p.chair-caption:before {
   height: 1em;
   border-top: 1px solid rgba(0,0,0,0.25);
 }
-
-a.buybutton {
-  background-color: rgba(75,75,60,0.5);
-  display: block;
-  margin: 0 auto;
-  width: 175px;
-  text-decoration: none;
-  padding: 4px 10px;
-  -webkit-border-radius: 6px;
-  -moz-border-radius: 6px;
-  border-radius: 6px;
-  color: #fff;
-  margin-bottom: 1em;
-  font-size: 1em;
-  letter-spacing: 2px;
-  text-transform: lowercase;
-  font-variant: small-caps;
-}
-
-a.buybutton:hover {
-  text-decoration: none;
-  background-color: rgba(75,75,60,1);
-}
