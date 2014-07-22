@@ -30,7 +30,6 @@ a:hover {
 }
 
 h1 {
-  font-family: ff-quadraat-sc-web, Georgia, serif;
   font-size: 1em;
   letter-spacing: 2px;
   font-weight: normal;
@@ -48,7 +47,6 @@ h1 span {
 }
 
 h2 {
-  font-family: ff-quadraat-sc-web, Georgia, serif;
   font-size: 1em;
   letter-spacing: 2px;
   font-weight: normal;
@@ -60,7 +58,6 @@ h2 {
 }
 
 header {
-  font-family: ff-quadraat-sc-web, Georgia, serif;
   font-size: 1em;
   letter-spacing: 2px;
   font-weight: normal;
@@ -155,7 +152,6 @@ article img {
 }
 
 cite, .osf, div.sign {
-  font-family: ff-quadraat-sc-web, Georgia, serif;
   font-size: 1em;
   letter-spacing: 2px;
   font-style: normal;
@@ -188,7 +184,6 @@ p.chap1-list {
   text-indent: 0;
   text-align: center;
   margin: 1.6em 0;
-  font-family: ff-quadraat-sc-web, Georgia, serif;
   letter-spacing: 2px;
   text-transform: lowercase;
   font-variant: small-caps;
@@ -348,7 +343,6 @@ a.buybutton {
   border-radius: 6px;
   color: #fff;
   margin-bottom: 1em;
-  font-family: ff-quadraat-sc-web, Georgia, serif;
   font-size: 1em;
   letter-spacing: 2px;
   text-transform: lowercase;
