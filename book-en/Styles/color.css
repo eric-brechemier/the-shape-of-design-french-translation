@@ -23,7 +23,7 @@ a {
 }
 
 h1,
-header a, /* TODO: replace with header > a */
+header > a,
 a.continue,
 a:hover,
 a.tooltip:hover /* TODO: check if needed */ {
