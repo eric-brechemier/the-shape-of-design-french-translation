@@ -81,9 +81,8 @@ header a:first-child {
 }
 
 header h1 {
-  display: inline;
   margin: 0;
-  padding-top: 1em;
+  padding: 0;
   color: rgba(0,0,0,0.4);
 }
 
