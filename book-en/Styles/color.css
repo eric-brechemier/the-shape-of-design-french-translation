@@ -25,15 +25,10 @@ a {
   color: inherit;
 }
 
-a.tooltip {
-  color: rgba(0,0,0,0.2);
-}
-
 h1,
 a.download,
 a.continue,
-a:hover,
-a.tooltip:hover {
+a:hover {
   color: #e74357;
 }
 
@@ -50,6 +45,7 @@ footer {
 
 nav {
   background: none;
+  color: rgba(0,0,0,0.2);
 }
 
 @media screen and (max-width:900px) {
