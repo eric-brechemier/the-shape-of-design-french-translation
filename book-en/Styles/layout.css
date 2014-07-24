@@ -210,7 +210,7 @@ a:hover > .tooltip {
 
 @media screen and (max-width:900px) {
   a:hover > .tooltip {
-    display: none; /* TODO: on the contrary, display tooltip without hover */
+    display: none;
   }
 }
 
