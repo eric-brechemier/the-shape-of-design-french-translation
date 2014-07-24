@@ -168,7 +168,8 @@ nav ol li.sep {
 }
 
 @media screen and (max-width:900px) {
-  li.sep {
+  nav ol li.sep {
+    margin-bottom: 0;
     margin-right: 0.4em;
   }
 }
