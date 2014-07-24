@@ -102,7 +102,7 @@ blockquote p {
 }
 
 article.endnotes p {
-  margin: 1.6em 0; /* TODO: use same margins as blockquote p */
+  margin: 1.6em 0;
 }
 
 cite {
