@@ -188,24 +188,24 @@ nav ol li a.active {
   }
 }
 
-a.tooltip span {
-  z-index: 10;
+.tooltip {
   display: none;
+  z-index: 10;
+  position: absolute;
+  left: 1.25em;
   padding: 0.5em;
   margin-top: 0;
   margin-left: 1.25em;
-}
-
-a.tooltip:hover span{
-  display: inline; /* TODO: move other styles to a.tooltip span */
-  position: absolute;
-  left: 1.25em;
   max-height: 30px;
 }
 
+a:hover > .tooltip {
+  display: inline;
+}
+
 @media screen and (max-width:900px) {
-  a.tooltip:hover span {
-    display: none;
+  a:hover > .tooltip {
+    display: none; /* TODO: on the contrary, display tooltip without hover */
   }
 }
 

@@ -32,7 +32,7 @@ body {
   }
 }
 
-a.tooltip span {
+.tooltip {
   font-size: 16px;
   line-height: 0.8em;
 }
@@ -132,6 +132,6 @@ footer {
   text-align: center;
 }
 
-a.tooltip:hover span {
+.tooltip {
   text-align: left; /* TODO: check if needed */
 }
