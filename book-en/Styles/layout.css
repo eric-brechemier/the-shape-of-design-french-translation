@@ -130,6 +130,11 @@ nav {
   }
 }
 
+ul.balanced-list {
+  margin: 1.6em 0;
+}
+
+ul.balanced-list,
 ol {
   padding: 0;
 }

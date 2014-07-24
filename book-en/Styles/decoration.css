@@ -57,6 +57,7 @@ ul {
   list-style: circle;
 }
 
+ul.balanced-list,
 ol {
   list-style: none;
 }

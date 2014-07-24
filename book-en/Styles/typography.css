@@ -79,6 +79,7 @@ h1,
 h2,
 header,
 cite,
+.balanced-list,
 .osf,
 div.sign {
   font-size: 1em;
@@ -112,6 +113,7 @@ p {
   text-indent: 1.25em;
 }
 
+.balanced-list,
 p.first,
 blockquote p,
 article.endnotes p {
@@ -126,6 +128,7 @@ q {
 header,
 nav,
 h1,
+.balanced-list,
 a.continue,
 div.sign,
 footer {

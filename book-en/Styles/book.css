@@ -9,16 +9,6 @@
   }
 }
 
-p.chap1-list {
-  text-indent: 0;
-  text-align: center;
-  margin: 1.6em 0;
-  letter-spacing: 2px;
-  text-transform: lowercase;
-  font-variant: small-caps;
-  color: #e74357;
-}
-
 p.chair-caption {
   text-indent: 0;
   margin-bottom: 3.2em;
