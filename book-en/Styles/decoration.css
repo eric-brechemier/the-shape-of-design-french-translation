@@ -39,7 +39,7 @@ a.tooltip span {
 }
 
 nav a,
-a.tooltip:hover,
+nav a:hover,
 a.endnote-anchor,
 a.continue {
   text-decoration: none;
