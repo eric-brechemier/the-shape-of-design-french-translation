@@ -47,9 +47,9 @@ nav {
   }
 }
 
-@media screen and (max-width:325px) {
+@media screen and (max-width:900px) {
   nav ol li {
-    font-size: 1em !important; /* TODO: remove !important */
+    font-size: 1.75em;
   }
 }
 
@@ -59,9 +59,9 @@ nav {
   }
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:325px) {
   nav ol li {
-    font-size: 1.75em;
+    font-size: 1em;
   }
 }
 
