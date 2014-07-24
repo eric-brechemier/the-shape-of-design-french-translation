@@ -163,13 +163,6 @@ nav ol li {
   }
 }
 
-@media screen and (max-width:325px) {
-  nav ol li {
-    padding: 0 5px 0 0;
-    margin: 0;
-  }
-}
-
 nav ol li.sep {
   margin-bottom: 0.5em;
 }
