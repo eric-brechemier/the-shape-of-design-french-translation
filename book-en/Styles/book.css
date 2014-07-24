@@ -9,10 +9,6 @@ p.chair-caption {
   font-size: 0.8em;
 }
 
-p.chair-caption .osf {
-  letter-spacing: 0;
-}
-
 p.chair-caption:before {
   content: ' ';
   display: block;
