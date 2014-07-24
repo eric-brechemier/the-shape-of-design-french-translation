@@ -3,17 +3,14 @@ body {
 }
 
 article,
-header {
+header,
+a.continue {
   background-color: #fff;
-  border-color: rgba(0,0,0,0.07);
+  border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.07);
 }
 
 a.endnote-anchor:target {
   background-color: #f8f8a8;
-}
-
-a.continue {
-  border-color: rgba(0,0,0,0.1); /* TODO: use same border color as article */
 }
 
 body,
