@@ -239,6 +239,11 @@ img.illo {
   }
 }
 
+.img-caption {
+  margin-bottom: 3.2em;
+  padding: 0;
+}
+
 div.sign {
   max-width: 70%;
   margin: 2em auto;

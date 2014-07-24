@@ -56,6 +56,10 @@ nav {
   }
 }
 
+.img-caption:before {
+  border-color: rgba(0,0,0,0.25);
+}
+
 div.sign {
   border-color: rgba(0,0,0,0.2);
 }

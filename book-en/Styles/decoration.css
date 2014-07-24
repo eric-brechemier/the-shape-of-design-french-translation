@@ -1,6 +1,7 @@
 header,
 article,
-a.continue {
+a.continue,
+.img-caption:before {
   border-width: 1px;
 }
 
@@ -23,6 +24,14 @@ article {
 }
 
 a.continue {
+  border-top-style: solid;
+}
+
+.img-caption:before {
+  content: ' ';
+  display: block;
+  width: 25%;
+  height: 1em;
   border-top-style: solid;
 }
 
@@ -58,6 +67,7 @@ ul {
 }
 
 ul.balanced-list,
+ul.img-caption,
 ol {
   list-style: none;
 }
