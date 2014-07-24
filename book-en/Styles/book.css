@@ -3,12 +3,6 @@
 @import "layout.css";
 @import "decoration.css";
 
-@media screen and (max-width:500px) {
-  header a {
-    display: block;
-  }
-}
-
 p.chair-caption {
   text-indent: 0;
   margin-bottom: 3.2em;

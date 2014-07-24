@@ -79,6 +79,12 @@ header {
   }
 }
 
+@media screen and (max-width:500px) {
+  header a {
+    display: block;
+  }
+}
+
 blockquote {
   padding-left: 2.5em;
   padding-top: 1em;
