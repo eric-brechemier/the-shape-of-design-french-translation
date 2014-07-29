@@ -114,6 +114,10 @@ p {
   text-align: justify;
 }
 
+.bullet-list {
+  font-style: italic;
+}
+
 p,
 ul {
   text-indent: 1.25em;
