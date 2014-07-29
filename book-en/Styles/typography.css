@@ -110,7 +110,8 @@ footer {
   font-size: 0.8em;
 }
 
-p {
+p,
+ul {
   text-indent: 1.25em;
 }
 

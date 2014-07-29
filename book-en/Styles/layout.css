@@ -1,6 +1,7 @@
 body,
 nav,
 ol,
+ul,
 header h1,
 p,
 blockquote {
@@ -16,7 +17,7 @@ cite {
 }
 
 article {
-  max-width: 30em;
+  max-width: 32em;
   margin: 0 auto;
   padding: 0 3em;
 }
@@ -134,6 +135,10 @@ nav {
     padding-right: 1em;
     max-width: 30em;
   }
+}
+
+ul {
+  margin: 1em 0;
 }
 
 ul.balanced-list {

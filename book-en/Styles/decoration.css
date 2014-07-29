@@ -63,7 +63,8 @@ nav a {
 }
 
 ul {
-  list-style: circle;
+  list-style: disc;
+  list-style-position: inside;
 }
 
 ul.balanced-list,
