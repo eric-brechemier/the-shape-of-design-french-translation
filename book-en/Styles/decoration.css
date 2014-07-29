@@ -11,7 +11,7 @@ header {
 }
 
 @media screen and (max-width:900px) {
-  nav {
+  nav.contents {
     border-width: 1px;
     border-left-style: solid;
     border-right-style: solid;
@@ -47,8 +47,8 @@ div.sign {
   -webkit-border-radius: 4px;
 }
 
-nav a,
-nav a:hover,
+nav.contents a,
+nav.contents a:hover,
 a.endnote-anchor,
 a.continue {
   text-decoration: none;
@@ -58,7 +58,7 @@ a.continue:hover {
   text-decoration: underline;
 }
 
-nav a {
+nav.contents a {
   outline: none;
 }
 

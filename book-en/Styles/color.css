@@ -41,13 +41,13 @@ footer {
   color: rgba(0,0,0,0.4);
 }
 
-nav {
+nav.contents {
   background: none;
   color: rgba(0,0,0,0.2);
 }
 
 @media screen and (max-width:900px) {
-  nav {
+  nav.contents {
     background-color: #fff;
     border-color: rgba(0,0,0,0.07);
   }

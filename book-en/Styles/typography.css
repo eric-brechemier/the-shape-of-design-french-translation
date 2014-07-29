@@ -37,40 +37,40 @@ body {
   line-height: 0.8em;
 }
 
-nav {
+nav.contents {
   font-size: 2em;
 }
 
 @media screen and (max-width:900px) {
-  nav {
+  nav.contents {
     font-size: 1em;
   }
 }
 
 @media screen and (max-width:900px) {
-  nav ol li {
+  nav.contents > ol > li {
     font-size: 1.75em;
   }
 }
 
 @media screen and (max-width:500px) {
-  nav ol li {
+  nav.contents > ol > li {
     font-size: 1.5em;
   }
 }
 
 @media screen and (max-width:325px) {
-  nav ol li {
+  nav.contents > ol > li {
     font-size: 1em;
   }
 }
 
-nav ol li a.active {
+nav.contents > ol > li > a.active {
   font-size: 1.05em;
 }
 
 @media screen and (max-width:325px) {
-  nav ol li a.active {
+  nav.contents > ol > li > a.active {
     line-height: 150%;
   }
 }
@@ -137,7 +137,7 @@ q {
 }
 
 header,
-nav,
+nav.contents,
 h1,
 .balanced-list,
 a.continue,

@@ -112,7 +112,7 @@ cite {
   margin-bottom: 1.6em;
 }
 
-nav {
+nav.contents {
   float: left;
   width: 1em;
   position: fixed;
@@ -123,7 +123,7 @@ nav {
 }
 
 @media screen and (max-width:900px) {
-  nav {
+  nav.contents {
     float: none;
     width: inherit;
     position: inherit;
@@ -147,49 +147,49 @@ ul.balanced-list {
   margin: 1.6em 0;
 }
 
-nav ol li {
+nav.contents > ol > li {
   overflow: hidden;
 }
 
 @media screen and (max-width:900px) {
-  nav ol li {
+  nav.contents > ol > li {
     display: inline-block;
     padding-right: 0.35em;
   }
 }
 
 @media screen and (max-width:500px) {
-  nav ol li {
+  nav.contents > ol > li {
     padding: 0 5px 0 0;
     margin: 0;
   }
 }
 
-nav ol li.sep {
+nav.contents > ol > li.sep {
   margin-bottom: 0.5em;
 }
 
 @media screen and (max-width:900px) {
-  nav ol li.sep {
+  nav.contents > ol > li.sep {
     margin-bottom: 0;
     margin-right: 0.4em;
   }
 }
 
 @media screen and (max-width:900px) {
-  nav ol li a {
+  nav.contents > ol > li > a {
     display: inline-block;
     margin-top: 20px;
   }
 }
 
-nav ol li a.active {
+nav.contents > ol > li > a.active {
   margin-left: -1px;
   margin-top: -3px;
 }
 
 @media screen and (max-width:900px) {
-  nav ol li a.active {
+  nav.contents > ol > li > a.active {
     position: relative;
     top:-2px;
   }
