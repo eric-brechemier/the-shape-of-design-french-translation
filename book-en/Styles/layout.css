@@ -1,6 +1,6 @@
 body,
 nav,
-nav ol,
+ol,
 header h1,
 p,
 blockquote {
@@ -140,8 +140,7 @@ ul.balanced-list {
   margin: 1.6em 0;
 }
 
-ul.balanced-list,
-ol {
+ul.balanced-list {
   padding: 0;
 }
 
