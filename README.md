@@ -6,7 +6,7 @@ French translation of [“The Shape of Design” book]
 
 ## STATUS ##
 
-Acknowledgments translated (17/132)
+Acknowledgements translated (17/132)
 
 ## LICENSE ##
 
@@ -42,3 +42,4 @@ French, I appreciate the true value of its brevity.
   of the book, and the start of the adventure
 * 2013-12-24, French translation started
 * 2014-01-18, Foreword translated
+* 2014-07-19, Acknowledgements translated
