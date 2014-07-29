@@ -62,15 +62,14 @@ nav a {
   outline: none;
 }
 
-ul {
-  list-style: disc;
-  list-style-position: inside;
-}
-
-ul.balanced-list,
-ul.img-caption,
+ul,
 ol {
   list-style: none;
+}
+
+ul.bullet-list {
+  list-style: disc;
+  list-style-position: inside;
 }
 
 q:before {
