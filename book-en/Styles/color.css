@@ -14,7 +14,7 @@ a.endnote-anchor:target {
 }
 
 body,
-h1 span {
+h2 span {
   color: #404030;
 }
 
@@ -23,6 +23,7 @@ a {
 }
 
 h1,
+h2,
 .balanced-list,
 a.download,
 a.continue,

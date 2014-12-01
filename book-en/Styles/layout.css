@@ -51,14 +51,16 @@ article.ack {
   padding-bottom: 4em;
 }
 
-h1 {
+h1,
+h2 {
   padding-top: 5em;
   margin-top: 0;
   margin-bottom: 4em;
 }
 
 @media screen and (max-width:500px) {
-  h1 {
+  h1,
+  h2 {
     margin-top: -2em;
   }
 }

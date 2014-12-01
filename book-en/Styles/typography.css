@@ -76,6 +76,7 @@ nav.contents > ol > li > a.active {
 }
 
 h1,
+h2,
 h3,
 header,
 cite,
@@ -140,6 +141,7 @@ q {
 header,
 nav.contents,
 h1,
+h2,
 .balanced-list,
 a.continue,
 div.sign,
