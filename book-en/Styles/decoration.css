@@ -50,7 +50,8 @@ div.sign {
 nav.contents a,
 nav.contents a:hover,
 a.endnote-anchor,
-a.continue {
+a.continue,
+a.discreet {
   text-decoration: none;
 }
 
@@ -58,7 +59,8 @@ a.continue:hover {
   text-decoration: underline;
 }
 
-nav.contents a {
+nav.contents a,
+a.discreet {
   outline: none;
 }
 
