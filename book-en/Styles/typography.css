@@ -138,6 +138,10 @@ q {
   font-style: italic;
 }
 
+.dedication {
+  text-align: right;
+}
+
 header,
 nav.contents,
 h1,

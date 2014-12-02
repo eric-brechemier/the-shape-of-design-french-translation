@@ -106,8 +106,13 @@ blockquote p {
   margin: 1.5em 0;
 }
 
-article.endnotes p {
+article.endnotes p,
+article.opening p {
   margin: 1.6em 0;
+}
+
+article.opening p.dedication {
+  margin: 6.4em 0;
 }
 
 cite {
