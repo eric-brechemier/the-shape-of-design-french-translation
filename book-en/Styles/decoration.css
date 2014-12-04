@@ -51,7 +51,8 @@ nav.contents a,
 nav.contents a:hover,
 a.endnote-anchor,
 a.continue,
-a.discreet {
+a.discreet,
+article.contents a {
   text-decoration: none;
 }
 
