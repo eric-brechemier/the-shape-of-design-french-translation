@@ -35,6 +35,10 @@ But I was deeply touched by the message, the story and the storytelling.
 And now that I have resolved to share it with my English-impaired fellow
 French, I appreciate the true value of its brevity.
 
+Still, translating this book is no meager task. Each sentence has been
+carefully crafted, weighted and chiseled to resonate on multiple levels,
+which makes the work of the translator all the more challenging and rewarding.
+
 ## HISTORY ##
 
 * 2012-05-30, [The End]
