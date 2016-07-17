@@ -6,7 +6,7 @@ French translation of [“The Shape of Design” book]
 
 ## STATUS ##
 
-Translation of Introduction in progress (18/132)
+Translation of End Notes in progress (18/121)
 
 ## LICENSE ##
 
