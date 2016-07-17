@@ -6,7 +6,7 @@ French translation of [“The Shape of Design” book]
 
 ## STATUS ##
 
-Translation of End Notes in progress (18/121)
+Translation of Chapter One started (22/121)
 
 ## LICENSE ##
 
@@ -48,3 +48,4 @@ which makes the work of the translator all the more challenging and rewarding.
 * 2014-01-18, Foreword translated
 * 2014-07-19, Acknowledgements translated
 * 2016-06-18, Introduction translated
+* 2016-07-18, End Notes translated
