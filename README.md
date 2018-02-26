@@ -49,3 +49,4 @@ which makes the work of the translator all the more challenging and rewarding.
 * 2014-07-19, Acknowledgements translated
 * 2016-06-18, Introduction translated
 * 2016-07-18, End Notes translated
+* 2017-04-22, Chapter One translated
