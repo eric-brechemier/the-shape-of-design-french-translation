@@ -1,6 +1,9 @@
 # Craft #
 
-Technique
+Savoir-faire
+
+* to improve craft: perfectionner un savoir-faire
+* crafted: élaborer
 
 ## Rationale ##
 
@@ -65,12 +68,17 @@ These five concepts are all related to transformation and creation:
   * Phronesis (φρόνησις) is the wisdom or virtue behind Praxis; this is the
     transformation of oneself through improvement of our moral understanding.
 
-While these five words evoke different aspects of creation described in
-“The Shape of Design”, τέχνη has the strongest affinity with craft. And thus,
-I eventually settled for the derived word 'technique', which trades some of
-the highbrow sophistication of 'art' for down-to-earth manipulation with
-a hint of dexterity and a wisp of technology.
+I favored the word 'technique', derived from τέχνη, which has the strongest
+affinity with craft. It trades some of the highbrow sophistication of 'art'
+for down-to-earth manipulation with a hint of dexterity and a wisp of
+technology. However, the word 'technique', because of its overemphasis
+on technical work and its connotation of machine-made, industrial,
+proved inadequate in some contexts where the word craft is used in
+“The Shape of Design”.
 
-The article [Connaissance technique]
-(https://fr.wikipedia.org/wiki/Connaissance_technique), in French Wikipedia,
-illustrates the broad lexical word of the word 'technique'.
+I eventually settled for the word 'savoir-faire' (know-how), which combines
+the activity of doing in a general sense 'faire', with a connotation of
+doing manually, and of the knowledge of the way, the technique of doing.
+The association of the two words creates a concept that is larger in scope,
+and introduces the idea of a best practice that can be learned, taught and
+bequeathed.
