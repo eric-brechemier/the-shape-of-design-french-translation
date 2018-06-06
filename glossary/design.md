@@ -2,6 +2,8 @@
 
 création
 
+* design conference: conférence de design
+
 ## RATIONALE ##
 
 The English term ‘Design’ [is often used AS IS in French][DESIGN],
