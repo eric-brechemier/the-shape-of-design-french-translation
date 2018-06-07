@@ -1,6 +1,6 @@
 # Shape #
 
-forme
+Forme
 
 ## RATIONALE ##
 

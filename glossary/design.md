@@ -1,6 +1,6 @@
 # Design #
 
-création
+Création
 
 * design conference: conférence de design
 
