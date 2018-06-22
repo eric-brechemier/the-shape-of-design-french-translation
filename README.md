@@ -1,8 +1,10 @@
 La forme en création
 ====================
 
-French translation of [“The Shape of Design” book]
-(https://shapeofdesignbook.com/) by Frank Chimero.
+French translation of [“The Shape of Design” book][BOOK]
+by Frank Chimero.
+
+[BOOK]: https://shapeofdesignbook.com/
 
 ## STATUS ##
 
@@ -10,8 +12,9 @@ Translation of Chapter Two ongoing (40/121)
 
 ## LICENSE ##
 
-Licensed [BY-NC-SA Creative Commons]
-(http://creativecommons.org/licenses/by-nc-sa/3.0/).
+Licensed [BY-NC-SA Creative Commons][LICENSE].
+
+[LICENSE]: http://creativecommons.org/licenses/by-nc-sa/3.0/
 
 ## ATTRIBUTION ##
 
@@ -21,13 +24,16 @@ French translation by Eric Bréchemier.
 ## BACK STORY ##
 
 I discovered the book project during its crowdfunding process
-on [Kickstarter]
-(http://www.kickstarter.com/projects/fchimero/the-shape-of-design).
+on [Kickstarter][].
+
+Kickstarter: http://www.kickstarter.com/projects/fchimero/the-shape-of-design
 
 I backed the project after watching
-[this video of a presentation by Frank Chimero]
-(http://vimeo.com/17084347), also entitled “The Shape of Design”,
+[this video of a presentation by Frank Chimero][VIDEO],
+also entitled “The Shape of Design”,
 which had set my expectations really high.
+
+[VIDEO]: http://vimeo.com/17084347
 
 Truth be told, I was disappointed by the book at first, which
 was nothing like the Graphic Design books that I had read so far.
@@ -41,8 +47,7 @@ which makes the work of the translator all the more challenging and rewarding.
 
 ## HISTORY ##
 
-* 2012-05-30, [The End]
-  (http://www.kickstarter.com/projects/fchimero/the-shape-of-design/posts/236908)
+* 2012-05-30, [The End][THE_END]
   of the book, and the start of the adventure
 * 2013-12-24, French translation started
 * 2014-01-18, Foreword translated
@@ -50,3 +55,5 @@ which makes the work of the translator all the more challenging and rewarding.
 * 2016-06-18, Introduction translated
 * 2016-07-18, End Notes translated
 * 2017-04-22, Chapter One translated
+
+[THE_END]: http://www.kickstarter.com/projects/fchimero/the-shape-of-design/posts/236908
