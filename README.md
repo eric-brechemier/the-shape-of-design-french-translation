@@ -8,7 +8,7 @@ by Frank Chimero.
 
 ## STATUS ##
 
-Translation of Chapter Two ongoing (40/121)
+Translation of Chapter Two complete (47/121)
 
 ## LICENSE ##
 
@@ -55,5 +55,6 @@ which makes the work of the translator all the more challenging and rewarding.
 * 2016-06-18, Introduction translated
 * 2016-07-18, End Notes translated
 * 2017-04-22, Chapter One translated
+* 2018-08-04, Chapter Two translated
 
 [THE_END]: http://www.kickstarter.com/projects/fchimero/the-shape-of-design/posts/236908
