@@ -5,7 +5,7 @@ Celui qui a fabriqué...
 
 * Knifemaker: fabricant de couteaux
 
-## Rationale ##
+## RATIONALE ##
 
 Maker is commonly translated as 'fabricant' but this frames the meaning
 to a narrow scope (manufacturer), with a connotation of industry.

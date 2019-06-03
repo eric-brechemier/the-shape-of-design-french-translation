@@ -2,7 +2,7 @@
 
 But
 
-## Rationale ##
+## RATIONALE ##
 
 I contemplated the translation 'vocation' (fr/en), which resonated in some
 contexts, emphasizing an elevated direction. It cam too strong though and

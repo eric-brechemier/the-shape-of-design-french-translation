@@ -5,7 +5,7 @@ Savoir-faire
 * to improve craft: perfectionner un savoir-faire
 * crafted: élaborer
 
-## Rationale ##
+## RATIONALE ##
 
 The noun 'craft' corresponds to three different words in French:
 
