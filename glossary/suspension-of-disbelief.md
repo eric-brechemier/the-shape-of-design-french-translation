@@ -5,7 +5,7 @@ Eclipse du sens critique
 ## RATIONALE ##
 
 This common English expression was coined by the poet and philosopher
-Samuel Taylor Coleridge in "Biographia Literaria", published in 1817 [1][R1]:
+Samuel Taylor Coleridge in “Biographia Literaria”, published in 1817 [1][R1]:
 
 > It was agreed, that my endeavours should be directed to persons
 > and characters supernatural, or at least romantic, yet so as to
@@ -21,8 +21,8 @@ page [3][R3] for the concept and on this thread on WordReference [4][R4],
 there is no authoritative translation of this common English expression.
 
 An early translator of Coleridge, Amédée Pichot, commented and translated
-this phrase on page 353 in his book "Voyage historique et littéraire en
-Angleterre et en Écosse" (volume 2) [5][R5], published in 1826:
+this phrase on page 353 in his book “Voyage historique et littéraire en
+Angleterre et en Écosse” (volume 2) [5][R5], published in 1826:
 
 > Il s’était surtout chargé, pour leur plan commun, de choisir des
 héros et des sujets imaginaires, sans renoncer toutefois à leur prêter
@@ -32,9 +32,9 @@ de l'esprit critique de l'incrédule raison.**
 
 (emphasis mine)
 
-From this, "(willing) suspension of disbelief" would translate as
+From this, '(willing) suspension of disbelief' would translate as
 "suspension (volontaire) de l'esprit critique de l'incrédule raison.
-That's a mouthful, and "disbelief" is actually translated twice with
+That's a mouthful, and 'disbelief' is actually translated twice with
 two different nuances: "esprit critique" and "incrédule raison".
 
 More recent translations are found in this page in French which collects
@@ -43,7 +43,7 @@ quotes from Coleridge [6][R6]:
 > Cette suspension consentante de l'incrédulité, suspension momentanée,
 qui constitue la foi poétique.
 
-where "(willing) suspension of disbelief (for the moment)" is translated
+where '(willing) suspension of disbelief (for the moment)' is translated
 as "suspension (consentante) de l'incrédulité(, suspension momentanée)"
 
 and
@@ -51,14 +51,14 @@ and
 > Cette suspension volontaire et momentanée de l'incrédulité
 > qui constitue la foi du poète
 
-where "(willing) suspension of disbelief (for the moment)" is translated
+where '(willing) suspension of disbelief (for the moment)' is translated
 as "suspension (volontaire) (et momentanée) de l'incrédulité".
 
-This hints at a literal translation of "suspension of disbelief" as
+This hints at a literal translation of 'suspension of disbelief' as
 "suspension de l'incrédulité"
 
 A literal translation was also used (in Spanish) by Jorge Luis Borges
-in "Siete Noches" (Seven Nights) [7][R7] published in 1980:
+in “Siete Noches” (Seven Nights) [7][R7] published in 1980:
 
 > Dijo  Coleridge  que  la  fe  poética  es  una
 > voluntaria  suspensión  de  la  incredulidad.
@@ -81,9 +81,9 @@ the expression "suspension de l'incrédulité" four times,
 out of ten times it appeared in his original script:
 
 * twice as "suspension de la crédulité" (contrary of "incrédulité")
-  which would be "suspension of belief", not disbelief
+  which would be 'suspension of belief', not disbelief
 * once as "suspend sa crédibilité" which would correspond to
-  "suspension of credibility" rather than "disbelief"
+  'suspension of credibility' rather than 'disbelief'
 * "suspendre un bon coup notre incrédubilité" (not a word,
   a cross between "incrédulité" and the previous "crédibilité")
 
@@ -108,29 +108,29 @@ listed in the French Wikipedia page [3][R3]:
 * "suspension du refus de croire"
 
 The discussion page [2][R2] evokes a philosophical concept named
-Epoché [11][R11] which is translated as "suspension of judgment"
+Epoché [11][R11] which is translated as 'suspension of judgment'
 in English and "suspension du jugement" in French [12][R12].
 
 While the expression "suspension du jugement" is close to the
-"suspension of disbelief" and the concept is related, it is
+'suspension of disbelief' and the concept is related, it is
 already used as a distinct concept in a variety of domains
 including philosophy and psychoanalysis, extending its usage
 to the domains storytelling and poetry might be confusing.
 
 On the other end of the spectrum, the Collins English to French
-Dictionary [13][R13] translates the expression "to suspend disbelief"
+Dictionary [13][R13] translates the expression 'to suspend disbelief'
 as "accepter les invraisemblances".
 
 From this variety of translations, we observe a range of expressions
 used to translate the two parts:
 
-"suspension" as:
+'suspension' as:
 
 * "suspension" (literal)
 * "mettre de côté"
 * "trêve" (military connotation)
 
-and "disbelief" as:
+and 'disbelief' as:
 
 * "esprit critique"
 * "incrédule raison"
@@ -141,8 +141,8 @@ and "disbelief" as:
 * "rejeter les invraisemblances"
 
 I favor "esprit critique", the first part of the earliest translation
-of the expression by Amédée Pichot. This "critical sense" carries best
-the meaning of "disbelief" as an exercise of jugement, an assessment of
+of the expression by Amédée Pichot. This 'critical sense' carries best
+the meaning of 'disbelief' as an exercise of jugement, an assessment of
 what is acceptable to believe.
 
 I then searched for a word to describe the numbing of the critical sense,
@@ -154,7 +154,7 @@ sounds complex, and from there I arrived to eclipse ("éclipse" in French)
 which is in common usage.
 
 This gives "éclipse du sens critique" as a translation of
-"suspension of disbelief".
+'suspension of disbelief'.
 
 I found a confirmation of the sound structure of this expression
 in a reference to "éclipse du sens" [14][R14] as a concept which

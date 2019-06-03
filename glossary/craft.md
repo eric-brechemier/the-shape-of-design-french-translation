@@ -15,27 +15,27 @@ The noun 'craft' corresponds to three different words in French:
 
 There is no direct equivalent to the verb 'to craft', which requires
 a whole locution and cannot be expressed without a complement in French:
-'faire (quelque chose) à la main'.
+"faire (quelque chose) à la main".
 
-The first one, 'art', is the most general and well adapted in the
+The first one, "art", is the most general and well adapted in the
 context of this book: it covers the whole range from the best practice
 to fine arts, and carries broad, positive values of creativity and quality.
 
-The second word, 'métier', would be an appropriate translation in some
+The second word, "métier", would be an appropriate translation in some
 contexts, when the skill is applied to a professional undertaking. This
 is also the common word for job or profession, and as such, it carries a lot
 of associated meanings which tend to restrict its use to professional
 activities that you are licensed to do by diploma or by trade. It sounds
 strange and feels out of place in the context of this book.
 
-The third word, 'artisanat', is limited to handiwork. It excludes work done
+The third word, "artisanat", is limited to handiwork. It excludes work done
 with a computer, which is too restrictive for this book.
 
 In French, the cursor between arts & crafts lies more to the right in the
 equivalent expression arts & métiers: the lexical scope of 'arts' is much
 broader than the scope of 'métiers', more limited with regards to 'crafts'.
 
-This makes 'art' (fr) a good fit for 'craft' (en). However, 'art' fails to
+This makes "art" (fr) a good fit for 'craft' (en). However, "art" fails to
 put enough emphasis on the manual aspect of the craft.
 
 I later explored a different direction, following a mention of
@@ -68,7 +68,7 @@ These five concepts are all related to transformation and creation:
   * Phronesis (φρόνησις) is the wisdom or virtue behind Praxis; this is the
     transformation of oneself through improvement of our moral understanding.
 
-I favored the word 'technique', derived from τέχνη, which has the strongest
+I favored the word "technique", derived from τέχνη, which has the strongest
 affinity with craft. It trades some of the highbrow sophistication of 'art'
 for down-to-earth manipulation with a hint of dexterity and a wisp of
 technology. However, the word 'technique', because of its overemphasis
@@ -76,8 +76,8 @@ on technical work and its connotation of machine-made, industrial,
 proved inadequate in some contexts where the word craft is used in
 “The Shape of Design”.
 
-I eventually settled for the word 'savoir-faire' (know-how), which combines
-the activity of doing in a general sense 'faire', with a connotation of
+I eventually settled for the word "savoir-faire" (know-how), which combines
+the activity of doing in a general sense "faire", with a connotation of
 doing manually, and of the knowledge of the way, the technique of doing.
 The association of the two words creates a concept that is larger in scope,
 and introduces the idea of a best practice that can be learned, taught and
