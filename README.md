@@ -26,7 +26,7 @@ French translation by Eric Bréchemier.
 I discovered the book project during its crowdfunding process
 on [Kickstarter][].
 
-Kickstarter: http://www.kickstarter.com/projects/fchimero/the-shape-of-design
+[Kickstarter]: http://www.kickstarter.com/projects/fchimero/the-shape-of-design
 
 I backed the project after watching
 [this video of a presentation by Frank Chimero][VIDEO],
