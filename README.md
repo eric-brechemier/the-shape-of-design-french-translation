@@ -1,14 +1,19 @@
 La forme en création
 ====================
 
-French translation of [“The Shape of Design” book][BOOK]
+[French translation][BOOK_FR] of [“The Shape of Design” book][BOOK]
 by Frank Chimero.
 
+Read it [here][BOOK_FR].
+
 [BOOK]: https://shapeofdesignbook.com/
+[BOOK_FR]: https://eric-brechemier.github.io/the-shape-of-design-french-translation/book-fr/
 
 ## STATUS ##
 
-Translation of Chapter Three complete (48/121)
+Translation of [Chapter Three][CURRENT] complete (48/121)
+
+[CURRENT]: https://eric-brechemier.github.io/the-shape-of-design-french-translation/book-fr/chapitre03.html
 
 ## LICENSE ##
 
